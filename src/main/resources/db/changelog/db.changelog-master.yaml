@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: /db/changelog/changes/20241215201208_create-user-table.sql
+  - include:
+      file: /db/changelog/changes/20241215201208_create-role-table.sql
+  - include:
+      file: /db/changelog/changes/20241215201208_create-user_role-table.sql
+  - include:
+      file: /db/changelog/changes/20241215210433_alter-user-table.sql
