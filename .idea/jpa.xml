@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+  </component>
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="javaHW4" name="Default" />
+      <persistence-unit name="hw4">
+        <packages>
+          <package value="com.abrus.user.model" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
